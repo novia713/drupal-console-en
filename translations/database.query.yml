@@ -1,0 +1,7 @@
+description: "Executes a SQL statement directly as argument"
+arguments:
+    query: "The SQL statement to execute"
+    database: "Database key from settings.php"
+messages:
+    connection: 'Connection: "%s"'
+help: 'First argument should be the SQL statement. Second argument could be the name of the affected database.'
