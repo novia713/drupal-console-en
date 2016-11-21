@@ -14,3 +14,4 @@ messages:
     error-copying-file: 'Error copying file'
     error-writing-file: 'Error copying file'
     services-file-overwritten: 'Services files "%s" was overwritten'
+    cachebins: 'Render Cache & Dynamic Render Cache were disabled'
